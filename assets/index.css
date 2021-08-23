@@ -4,7 +4,7 @@ body{
     background-color: #c4fbfe;
     color:black;
     text-align: center;
-    font-family: 'Aldrich';
+    font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
